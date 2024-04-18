@@ -1,0 +1,11 @@
+[user]
+	name = qiuxiaohuo
+	email = qiuxiaohuo@gmail.com
+[core]
+	editor = vim
+[http]
+	version = HTTP/1.1
+	postBuffer = 1048576000
+	sslVerify = false
+[https]
+	postBuffer = 1048576000
